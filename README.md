@@ -16,3 +16,5 @@ _electron-forge start_
 https://github.com/electron/electron/blob/master/docs/api/browser-window.md
 
 https://electronforge.io/templates
+
+**Based on my other tutorial: https://github.com/alexandru360/ng-angular-material-scaffold**
