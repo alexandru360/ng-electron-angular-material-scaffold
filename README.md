@@ -1,6 +1,8 @@
 # ng-electron-angular-material-scaffold
 Electron scaffolding based on Angular 6 and Material Design (Angular Material)
 
+![alt text](https://github.com/alexandru360/ng-electron-angular-material-scaffold/blob/master/MyApp.png)
+
 The magic happends in src folder.
 
 npm install -g electron-forge
